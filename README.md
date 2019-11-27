@@ -1,0 +1,2 @@
+# pythonico
+aulas praticas
